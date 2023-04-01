@@ -1,4 +1,8 @@
-# google98
+# CSS-ODEV2
 
+Bu repo [Kodluyoruz](https://kodluyoruz.org/) Front-End içerisindeki, CSS eğitimi için oluşturduğumuz repo.
+Bu çalışmada Google 1998 versiyonu klonlandı.
 
-[Patika.Dev]('www.patika.dev') için oluşturduğum Google' ın 98 yılındaki Anasayfası
+## Patika
+
+[patika.dev profilim](https://app.patika.dev/minorx)
